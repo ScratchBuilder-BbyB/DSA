@@ -1,2 +1,5 @@
-package graph.mst;public class Prims {
+package graph.mst;
+
+public class Prims {
+
 }

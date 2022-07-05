@@ -1,2 +1,5 @@
-package graph.shortest.path;public class Dijikstra {
+package graph.shortest.path;
+
+public class Dijikstra {
+
 }
